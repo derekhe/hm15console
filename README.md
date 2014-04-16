@@ -1,4 +1,4 @@
-hm15console
-===========
+hm-15 console
+=============
 
-A console program to control hm15 easily
+A console program to control hm-15 easily
